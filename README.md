@@ -7,7 +7,7 @@ Repository contains documentation of Freeturilo system.
     - Executive summary
     - Vocabulary
     - Functional requirements
-    - Non-unctional requirements
+    - Non-functional requirements
     - Project schedule
     - Risk analysis
     - System architecture

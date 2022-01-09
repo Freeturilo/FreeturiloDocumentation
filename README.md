@@ -1,6 +1,6 @@
 # Freeturilo Documentation
 
-Repository contains documentation of Freeturilo system.
+Repository contains documentation of the Freeturilo system.
 
 - `documentation.pdf`
     

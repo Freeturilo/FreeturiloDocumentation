@@ -17,7 +17,7 @@ Repository contains documentation of the Freeturilo system.
     - External interfaces
     - Technology selection
 
-- `deployment_documentation.pdf`
+- `post-deployment-documentation.pdf`
 
     - Hardware and configuration
     - Installation instruction
